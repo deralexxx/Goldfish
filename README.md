@@ -1,5 +1,13 @@
 # Goldfish
 
+## Idea
+
+Here will be a description about the idea
+
+## Installation
+
+How to install the goldfish to the fishbowl
+
 ## Sample requests
 
 ### GET /findings/_design/by_host/_view/by_host?key="hostname123"
