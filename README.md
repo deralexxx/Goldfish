@@ -23,9 +23,25 @@ Within the WebUI different filter / search options would be ideal and an export 
 Of couse the idea behind can be achieved with other tools like ticketing tools, SIEM solutions or any other cyber related tool. Goldfish is not intended to be a Swiss Army knife to solve dozen of problems but a bottle opener, made for a single task.
 
 
-## Installation
+## Operations
+
+### Requirements
 
 How to install the goldfish to the fishbowl
+
+### Installation
+
+### Hardening
+
+What to do to harden your Goldfish?
+
+### Backup
+
+How to backup your Goldfish
+
+### Update
+
+How to install the latest Goldfish
 
 ## Sample requests
 
